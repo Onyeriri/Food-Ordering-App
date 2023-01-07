@@ -30,7 +30,7 @@ const DUMMY_MEALS = [
   },
 ];
 
-const AvaliableMeals = () => {
+const AvailableMeals = () => {
   return (
     <section className={classes.meals}>
       <Cards>
@@ -44,4 +44,4 @@ const AvaliableMeals = () => {
   );
 };
 
-export default AvaliableMeals;
+export default AvailableMeals;
